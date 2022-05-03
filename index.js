@@ -1,1 +1,1 @@
-module.exports = 'Hello my first package'
+module.exports = 'Hello my first package v1.0.1'
